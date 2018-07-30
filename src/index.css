@@ -1,0 +1,15 @@
+
+.div {
+    width: 200px;
+    height: 300px;
+    overflow-y: scroll;
+    border: 1px solid #dddddd;
+    display: inline-block;
+    margin-top: 50px;
+    margin-right: 20px;
+
+}
+
+.text {
+    height: 5000px;
+}
